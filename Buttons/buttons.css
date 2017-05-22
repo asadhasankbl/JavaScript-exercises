@@ -1,0 +1,27 @@
+.btn1 {
+
+display: block;
+color: white;
+font-size: x-large;
+background-color: darkgreen;
+border: 9px solid green;
+border-radius: 100px;
+width: 100px;
+height: 100px
+
+}
+
+.btn2 {
+
+display: none;
+color: green;
+font-size: x-large;
+background-color: darkblue;
+border: 9px solid yellow;
+border-radius: 100px;
+width: 100px;
+height: 100px
+
+}
+
+	
